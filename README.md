@@ -1,4 +1,13 @@
-https://img.shields.io/github/issues/pelias/pelias
+![License](https://img.shields.io/github/license/pelias/api?color=orange)
+[![Build Status](https://img.shields.io/travis/pelias/api)](https://travis-ci.org/pelias/api)
+[![Docker Pulls](https://img.shields.io/docker/pulls/pelias/api?color=informational)](https://hub.docker.com/r/pelias/api)
+[![Version](https://img.shields.io/npm/v/pelias-api?color=informational)](https://www.npmjs.com/package/pelias-api)
+[![Installs](https://img.shields.io/npm/dm/pelias-api?color=informational&label=npm%20install)](https://www.npmjs.com/package/pelias-api)
+![Commits](https://img.shields.io/github/commit-activity/m/pelias/api?color=success)
+![Last Commit](https://img.shields.io/github/last-commit/pelias/api?color=success)
+![Last Release](https://img.shields.io/github/release-date/pelias/api?color=success)
+[![Gitter](https://img.shields.io/gitter/room/pelias/pelias?color=yellow)](https://gitter.im/pelias/pelias)
+
 
 
 # Pelias
