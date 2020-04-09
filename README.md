@@ -1,5 +1,4 @@
-![Pelias Logo](https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png =100x200)
-
+<img src="https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png" alt="Pelias Logo" width="300"/>
 
 ![License](https://img.shields.io/github/license/pelias/api?color=orange)
 [![Build Status](https://img.shields.io/travis/pelias/api)](https://travis-ci.org/pelias/api)
