@@ -1,3 +1,6 @@
+![Pelias Logo] (https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png)
+
+
 ![License](https://img.shields.io/github/license/pelias/api?color=orange)
 [![Build Status](https://img.shields.io/travis/pelias/api)](https://travis-ci.org/pelias/api)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pelias/api?color=informational)](https://hub.docker.com/r/pelias/api)
