@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png" alt="Pelias Logo" width="300"/>
+
+
+
+<img src="https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png" alt="Pelias Logo" width="300" align="middle"/>
 
 ![License](https://img.shields.io/github/license/pelias/api?color=orange)
 [![Build Status](https://img.shields.io/travis/pelias/api)](https://travis-ci.org/pelias/api)
@@ -9,6 +12,12 @@
 ![Last Commit](https://img.shields.io/github/last-commit/pelias/api?color=success)
 ![Last Release](https://img.shields.io/github/release-date/pelias/api?color=success)
 [![Gitter](https://img.shields.io/gitter/room/pelias/pelias?color=yellow)](https://gitter.im/pelias/pelias)
+
+
+
+
+
+
 
 
 
