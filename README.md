@@ -1,7 +1,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png" alt="Pelias Logo" width="300" align="middle"/>
+<img src="https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png" alt="Pelias Logo" width="300" align="center"/>
 
 ![License](https://img.shields.io/github/license/pelias/api?color=orange)
 [![Build Status](https://img.shields.io/travis/pelias/api)](https://travis-ci.org/pelias/api)
