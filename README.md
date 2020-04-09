@@ -21,13 +21,9 @@
 
 
 
+## A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.
 
-
-
-
-# Pelias
-
-> A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.
+---
 
 ### What's a geocoder do anyway?
 
