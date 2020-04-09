@@ -1,4 +1,4 @@
-![Pelias Logo](https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png)
+![Pelias Logo](https://raw.githubusercontent.com/elioqoshi/pelias/master/Pelias%20-%20Logo_horizontal_primary.png =250x)
 
 
 ![License](https://img.shields.io/github/license/pelias/api?color=orange)
