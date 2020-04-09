@@ -1,3 +1,17 @@
+https://img.shields.io/github/license/pelias/pelias?style=for-the-badge
+
+
+https://img.shields.io/github/issues/pelias/pelias
+
+https://img.shields.io/github/forks/pelias/pelias
+
+https://img.shields.io/github/stars/pelias/pelias
+
+https://img.shields.io/twitter/url?style=social
+
+
+
+
 # Pelias
 
 > A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.
